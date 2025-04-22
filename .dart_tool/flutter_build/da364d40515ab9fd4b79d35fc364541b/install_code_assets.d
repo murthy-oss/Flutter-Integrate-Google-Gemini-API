@@ -1,0 +1,1 @@
+ E:\\GFG\\Flutter-Integrate-Google-Gemini-API\\Flutter-Integrate-Google-Gemini-API\\.dart_tool\\flutter_build\\da364d40515ab9fd4b79d35fc364541b\\native_assets.json: 
